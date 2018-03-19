@@ -1,0 +1,8 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "test002a.pbl" "";
+@end;
+@begin Objects 
+ "w_test002_sheet11.srw" "test002a.pbl";
+ "w_test002_sheet22.srw" "test002a.pbl";
+@end;
