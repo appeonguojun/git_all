@@ -4,5 +4,5 @@ Save Format v3.0(19990112)
  1 "test002\\test002.pbt";
  2 "test003\\test003.pbt";
 @end;
-DefaultTarget "test001\\test001.pbt";
-DefaultRemoteTarget "test001\\test001.pbt";
+DefaultTarget "test003\\test003.pbt";
+DefaultRemoteTarget "test003\\test003.pbt";
